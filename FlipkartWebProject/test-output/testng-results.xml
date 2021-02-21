@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14577" started-at="2021-02-21T15:20:03 IST" finished-at="2021-02-21T15:20:18 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14577" started-at="2021-02-21T15:20:03 IST" finished-at="2021-02-21T15:20:18 IST">
+      <class name="com.ecom.flipkart.searchtest.SearchAndSortIphone">
+        <test-method status="PASS" signature="configBS()[pri:0, instance:com.ecom.flipkart.searchtest.SearchAndSortIphone@34cd072c]" name="configBS" is-config="true" duration-ms="9" started-at="2021-02-21T15:20:03 IST" finished-at="2021-02-21T15:20:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method status="PASS" signature="configBT()[pri:0, instance:com.ecom.flipkart.searchtest.SearchAndSortIphone@34cd072c]" name="configBT" is-config="true" duration-ms="0" started-at="2021-02-21T15:20:03 IST" finished-at="2021-02-21T15:20:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBT -->
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.ecom.flipkart.searchtest.SearchAndSortIphone@34cd072c]" name="configBC" is-config="true" duration-ms="7711" started-at="2021-02-21T15:20:03 IST" finished-at="2021-02-21T15:20:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.ecom.flipkart.searchtest.SearchAndSortIphone@34cd072c]" name="configBM" is-config="true" duration-ms="1" started-at="2021-02-21T15:20:11 IST" finished-at="2021-02-21T15:20:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="iphonesearchtestcase()[pri:0, instance:com.ecom.flipkart.searchtest.SearchAndSortIphone@34cd072c]" name="iphonesearchtestcase" duration-ms="6011" started-at="2021-02-21T15:20:11 IST" finished-at="2021-02-21T15:20:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iphonesearchtestcase -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.ecom.flipkart.searchtest.SearchAndSortIphone@34cd072c]" name="configAM" is-config="true" duration-ms="0" started-at="2021-02-21T15:20:17 IST" finished-at="2021-02-21T15:20:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.ecom.flipkart.searchtest.SearchAndSortIphone@34cd072c]" name="configAC" is-config="true" duration-ms="663" started-at="2021-02-21T15:20:17 IST" finished-at="2021-02-21T15:20:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method status="PASS" signature="configAT()[pri:0, instance:com.ecom.flipkart.searchtest.SearchAndSortIphone@34cd072c]" name="configAT" is-config="true" duration-ms="1" started-at="2021-02-21T15:20:18 IST" finished-at="2021-02-21T15:20:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAT -->
+        <test-method status="PASS" signature="configAS()[pri:0, instance:com.ecom.flipkart.searchtest.SearchAndSortIphone@34cd072c]" name="configAS" is-config="true" duration-ms="0" started-at="2021-02-21T15:20:18 IST" finished-at="2021-02-21T15:20:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.ecom.flipkart.searchtest.SearchAndSortIphone -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
